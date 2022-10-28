@@ -1,2 +1,2 @@
 # PythonFundamentals
-basics of python with examples
+This repository contains basics of python with examples
